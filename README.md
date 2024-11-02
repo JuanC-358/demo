@@ -98,9 +98,4 @@ La arquitectura de este proyecto es una aplicación web sencilla que se ejecuta 
     sudo docker ps
     ```
 
-## Contribuciones
-Si deseas contribuir, por favor abre un **pull request** o reporta problemas en la sección de **issues**.
-
-## Contacto
-Para preguntas o sugerencias, contacta a [correo@ejemplo.com].
 
